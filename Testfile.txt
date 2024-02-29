@@ -1,0 +1,4 @@
+empno  ename  salary
+100    rama  5000
+101    krishna  6000
+102    kishore  7000
